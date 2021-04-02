@@ -13,5 +13,6 @@ public class Stroka {
             result = inputString.charAt(i) + result;
         }
         System.out.println(result);
+
     }
 }
